@@ -1,5 +1,6 @@
 
-## GitHub repo description
+## Intro
+A simple marketing website for Sovis Print with an interactive portfolio, order calculator, and a separate Express-based login/user management backend.
 
 **Sovis Print landing page + Node/Express login backend**
 
@@ -23,6 +24,3 @@ This repository contains a small web project for a printing service called **Sov
   - server.js handles user registration, login, and user data storage
   - `serverfolderdata/users.txt` stores registered users
 
-## Suggested README intro
-
-> A simple marketing website for Sovis Print with an interactive portfolio, order calculator, and a separate Express-based login/user management backend.
